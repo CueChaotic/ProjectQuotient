@@ -4,9 +4,9 @@
 *** A brief introduction ***
 -----------------------------------------------------------------------------------------------------
 
-Put simply, Project Quotient is an idea of mine for a website of a game developer. It's a core part
-of my journey to learn and develop skills in Software Engineering. It is, at this point, intended to
-be entirely theoretical and in no way represents a real company or commercial undertaking (even the
+Put simply, Project Quotient is an idea for a website of a game developer. It's a core part of my
+journey to learn and develop skills in Software Engineering. It is, at this point, intended to be
+entirely theoretical and in no way represents a real company or commercial undertaking (even the
 name is a placeholder).
 
 BUT, that being said, who knows what the future holds?
@@ -24,6 +24,3 @@ The current build has the following very surface-level features built using Djan
 
 NOTE: All the imagery is AI-generated (including the logo), massive thanks to ChatGPT for all its
 hard work in that respect, you made me proud.
-
-ENJOY (what little there is)
-
