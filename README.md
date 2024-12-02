@@ -1,7 +1,7 @@
 # PROJECT QUOTIENT
 
 -----------------------------------------------------------------------------------------------------
-*** A brief introduction ***
+## A brief introduction
 -----------------------------------------------------------------------------------------------------
 
 Put simply, Project Quotient is an idea for a website of a game developer. It's a core part of my
@@ -12,7 +12,7 @@ name is a placeholder).
 BUT, that being said, who knows what the future holds?
 
 -----------------------------------------------------------------------------------------------------
-*** Feature overview ***
+## Feature overview
 -----------------------------------------------------------------------------------------------------
 
 The current build has the following very surface-level features built using Django:
