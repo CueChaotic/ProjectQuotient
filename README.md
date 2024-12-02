@@ -9,6 +9,12 @@ name is a placeholder).
 
 BUT, that being said, who knows what the future holds?
 
+## Contents
+1. Feature Overview
+2. Installation
+3. Usage
+4. Credits
+
 ## Feature overview
 
 The current build has the following very surface-level features built using Django:
@@ -20,3 +26,25 @@ The current build has the following very surface-level features built using Djan
 
 NOTE: All the imagery is AI-generated (including the logo), massive thanks to ChatGPT for all its
 hard work in that respect, you made me proud.
+
+## Installation
+
+No installation required. See *Usage* below
+
+## Usage
+
+This build for the Project/Quotient website can be rendered using any browser. The below desktop
+browsers are recommended:
+* Chrome
+* Mozilla Firefox
+* Microsoft Edge
+* Safari
+* Opera
+* Opera GX
+
+Handheld apps: The current build is **not** yet recommended for viewing on Android or Apple
+handheld devices.
+
+## Credits
+
+Build entirely done by Patrick Hammond a.k.a. CueChaotic
