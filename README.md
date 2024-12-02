@@ -1,8 +1,6 @@
 # PROJECT QUOTIENT
 
------------------------------------------------------------------------------------------------------
 ## A brief introduction
------------------------------------------------------------------------------------------------------
 
 Put simply, Project Quotient is an idea for a website of a game developer. It's a core part of my
 journey to learn and develop skills in Software Engineering. It is, at this point, intended to be
@@ -11,9 +9,7 @@ name is a placeholder).
 
 BUT, that being said, who knows what the future holds?
 
------------------------------------------------------------------------------------------------------
 ## Feature overview
------------------------------------------------------------------------------------------------------
 
 The current build has the following very surface-level features built using Django:
 > Landing page, with a brief introduction to the "company".
